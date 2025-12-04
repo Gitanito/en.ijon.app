@@ -4,6 +4,7 @@ title: Coordinating Your Neighborhood Festival Without the Group Chat Chaos
 subtitle: Maximize attendance and volunteer sign-ups for your community events effortlessly
 tags: [event coordination, neighborhood festival]
 author: ijoin.app
+language: en
 ---
 
 # Coordinating Your Neighborhood Festival Without the Group Chat Chaos

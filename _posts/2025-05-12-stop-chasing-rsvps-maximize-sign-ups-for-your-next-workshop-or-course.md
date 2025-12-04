@@ -4,6 +4,7 @@ title: Stop Chasing RSVPs - Maximize Sign-Ups for Your Next Workshop or Course
 subtitle: The Secret to Effortless Event Registration for Creators and Small Businesses
 tags: [event registration, course sign-up]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing RSVPs - Maximize Sign-Ups for Your Next Workshop or Course

@@ -4,6 +4,7 @@ title: Maximize Your Stammtisch Attendance - Effortless Local Networking
 subtitle: Stop the RSVP Chaos - How to Get More Local Entrepreneurs to Your Next Meetup
 tags: [local networking, event organization]
 author: ijoin.app
+language: en
 ---
 
 # Stop the RSVP Chaos - How to Get More Local Entrepreneurs to Your Next Stammtisch

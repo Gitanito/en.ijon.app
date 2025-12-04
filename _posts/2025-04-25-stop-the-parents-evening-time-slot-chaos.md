@@ -4,6 +4,7 @@ title: Stop the Parents' Evening Time Slot Chaos
 subtitle: How to Guarantee Every Parent Gets the Right 15 Minutes- No App Required
 tags: [School Event Management, Parent Teacher Meeting]
 author: ijoin.app
+language: en
 ---
 # Stop the Parents' Evening Time Slot Chaos
 

@@ -4,6 +4,7 @@ title: Stop Chasing RSVPs - The Simple Way to Organize Your Weekly Game Night
 subtitle: Maximize attendance for recurring events like board game nights or club meetings without the login hassle
 tags: [event organization, recurring events]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing RSVPs - The Simple Way to Organize Your Weekly Game Night

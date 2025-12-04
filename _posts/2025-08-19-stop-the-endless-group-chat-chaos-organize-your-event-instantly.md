@@ -4,6 +4,7 @@ title: Stop the Endless Group Chat Chaos - Organize Your Event Instantly
 subtitle: The Secret to High Turnout for Spontaneous Gatherings and Group Events
 tags: [event organization, spontaneous gatherings]
 author: ijoin.app
+language: en
 ---
 # Maximize Your Event Attendance - Effortless Planning for Spontaneous Gatherings
 

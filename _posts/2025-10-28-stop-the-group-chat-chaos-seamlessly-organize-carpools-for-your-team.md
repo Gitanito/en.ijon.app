@@ -4,6 +4,7 @@ title: Stop the Group Chat Chaos - Seamlessly Organize Carpools for Your Team
 subtitle: Transform your sports team or club travel coordination from a headache into a hands-off process
 tags: [carpool organization, event management]
 author: ijoin.app
+language: en
 ---
 
 # Stop the Group Chat Chaos - Seamlessly Organize Carpools for Your Team

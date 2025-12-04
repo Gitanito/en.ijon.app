@@ -4,6 +4,7 @@ title: Maximize Your Stammtisch Attendance and Engagement - Effortlessly
 subtitle: The Secret to High-Conversion RSVPs for Local Business Networking Events
 tags: [Event Management, Business Networking]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing RSVPs- How Local Business Stammtisch Events Thrive with [ijoin.app](https://ijoin.app/index-en.html)

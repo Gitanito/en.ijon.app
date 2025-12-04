@@ -4,6 +4,7 @@ title: Maximize Your Book Club RSVPs - The Secret to Seamless Weekly Planning
 subtitle: Stop the Email Chain Chaos and Get Reliable Headcounts for Your Community Events
 tags: [event organization, book club planning]
 author: ijoin.app
+language: en
 ---
 # Maximize Your Book Club RSVPs - The Secret to Seamless Weekly Planning
 

@@ -4,6 +4,7 @@ title: Stop the Potluck Chaos - Effortless Event Planning for Your Next Group Di
 subtitle: Maximize attendance and minimize planning stress for your next communal meal
 tags: [event organization, potluck planning]
 author: ijoin.app
+language: en
 ---
 
 # Stop the Potluck Chaos - Effortless Event Planning for Your Next Group Dinner

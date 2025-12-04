@@ -4,6 +4,7 @@ title: Effortless Event Planning - The Ultimate Tool for Spontaneous Gatherings
 subtitle: Maximize RSVPs and minimize stress for your next casual event
 tags: [event planning, spontaneous events]
 author: ijoin.app
+language: en
 ---
 
 # Stop the Group Chat Chaos - Organize Your Spontaneous Grill Night with Ease

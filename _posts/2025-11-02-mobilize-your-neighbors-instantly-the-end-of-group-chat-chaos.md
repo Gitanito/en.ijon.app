@@ -4,6 +4,7 @@ title: Mobilize Your Neighbors Instantly - The End of Group Chat Chaos
 subtitle: Effortless Event Coordination for Community Service and Spontaneous Help
 tags: [community events, neighbor help]
 author: ijoin.app
+language: en
 ---
 # Mobilize Your Neighbors Instantly - The End of Group Chat Chaos
 

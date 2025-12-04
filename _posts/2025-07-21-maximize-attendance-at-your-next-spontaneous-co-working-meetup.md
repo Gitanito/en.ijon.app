@@ -4,6 +4,7 @@ title: Maximize Attendance at Your Next Spontaneous Co-Working Meetup
 subtitle: Stop the RSVP struggle and get instant commitment for your group sessions
 tags: [coworking, event-management]
 author: ijoin.app
+language: en
 ---
 
 # Instant Commitment- The Secret to Stress-Free Co-Working Meetups

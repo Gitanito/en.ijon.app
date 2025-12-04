@@ -4,6 +4,7 @@ title: Maximize Prototype Feedback- Get High-Quality RSVPs Without the Login Has
 subtitle: The simple, free way UX-UI designers collect critical user feedback instantly.
 tags: [UX Feedback, Event Organization]
 author: ijoin.app
+language: en
 ---
 # Stop Losing Valuable Feedback- How to Guarantee RSVPs for Your Prototype Session
 

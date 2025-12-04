@@ -4,6 +4,7 @@ title: The One-Link Solution for Last-Minute Group Get-Togethers
 subtitle: Stop the Chat Chaos - Coordinate Spontaneous Events Instantly and Effortlessly
 tags: [event coordination, spontaneous groups]
 author: ijoin.app
+language: en
 ---
 # Finally Coordinate Last-Minute Group Hangouts Without the Endless Text Chain
 

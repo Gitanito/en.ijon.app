@@ -4,6 +4,7 @@ title: Finally Organize Your Weekly Board Game Night Without the Headache
 subtitle: Streamline RSVPs and game planning for your regular meetups
 tags: [event planning, board games]
 author: ijoin.app
+language: en
 ---
 
 # Finally Organize Your Weekly Board Game Night Without the Headache

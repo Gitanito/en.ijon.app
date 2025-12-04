@@ -4,6 +4,7 @@ title: Stop Chasing RSVPs - The Simple Link That Fills Your Events
 subtitle: Maximize Event Attendance Without Forced Logins or App Downloads
 tags: [event organization, rsvp tool]
 author: bindabei.app
+language: en
 ---
 
 # Stop Chasing RSVPs - The Simple Link That Fills Your Events

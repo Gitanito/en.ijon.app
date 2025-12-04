@@ -4,6 +4,7 @@ title: Launch Your Beta Test Faster - The No-Login Invitation Secret
 subtitle: Maximize Beta Tester Turnout Without Registration Headaches
 tags: [event organization, beta testing]
 author: ijoin.app
+language: en
 ---
 
 # Launch Your Beta Test Faster - The No-Login Invitation Secret

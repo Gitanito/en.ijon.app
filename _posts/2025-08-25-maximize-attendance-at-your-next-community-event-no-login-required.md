@@ -4,6 +4,7 @@ title: Maximize Attendance at Your Next Community Event - No Login Required
 subtitle: The simple way to gather RSVPs for readings, workshops, and local gatherings
 tags: [event organization, community events]
 author: ijoin.app
+language: en
 ---
 
 # Stop Losing RSVPs- The Frictionless Way to Organize Your Next Community Reading or Workshop

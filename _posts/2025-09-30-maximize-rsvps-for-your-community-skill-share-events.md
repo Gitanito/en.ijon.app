@@ -4,6 +4,7 @@ title: Maximize RSVPs for Your Community Skill-Share Events
 subtitle: Effortless Event Management for Local Workshops and Meetups
 tags: [event organization, skill-share]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing RSVPs- How [ijoin.app](https://ijoin.app/index-en.html) Simplifies Local Skill-Share Event Organization

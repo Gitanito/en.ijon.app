@@ -4,6 +4,7 @@ title: Launch Your Exclusive Pop-up Dinner Without the RSVP Nightmare
 subtitle: Maximize Attendance for Your Secret Event with Zero Guest Friction
 tags: [event organization, pop-up dinner]
 author: ijoin.app
+language: en
 ---
 
 # Launch Your Exclusive Pop-up Dinner Without the RSVP Nightmare

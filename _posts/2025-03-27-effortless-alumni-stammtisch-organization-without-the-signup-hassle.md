@@ -4,6 +4,7 @@ title: Effortless Alumni Stammtisch Organization Without the Signup Hassle
 subtitle: Maximize Attendance for Your Next Alumni Gathering with One Simple Link
 tags: [event organization, alumni networking]
 author: ijoin.app
+language: en
 ---
 
 # Effortless Alumni Stammtisch Organization Without the Signup Hassle

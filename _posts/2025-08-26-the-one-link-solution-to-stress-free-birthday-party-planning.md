@@ -4,6 +4,7 @@ title: The One-Link Solution to Stress-Free Birthday Party Planning
 subtitle: Maximize RSVPs and minimize headache for your next kids' event
 tags: [event organization, party planning]
 author: ijoin.app
+language: en
 ---
 
 # Stop the RSVP Chaos- How to Get Instant Guest Responses for Your Child's Next Birthday

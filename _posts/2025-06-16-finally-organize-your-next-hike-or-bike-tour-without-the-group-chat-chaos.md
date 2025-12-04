@@ -4,6 +4,7 @@ title: Finally Organize Your Next Hike or Bike Tour Without the Group Chat Chaos
 subtitle: Maximize Attendance and Minimize Frustration for Your Adventure Group
 tags: [event organization, group hike planning]
 author: ijoin.app
+language: en
 ---
 # Finally Organize Your Next Hike or Bike Tour Without the Group Chat Chaos
 

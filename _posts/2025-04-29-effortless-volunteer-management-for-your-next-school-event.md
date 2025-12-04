@@ -4,6 +4,7 @@ title: Effortless Volunteer Management for Your Next School Event
 subtitle: Maximize Flohmarkt Participation Without Registration Headaches
 tags: [volunteer management, school events]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing Sign-Ups- Streamline Volunteer Management for School Flohmärkte

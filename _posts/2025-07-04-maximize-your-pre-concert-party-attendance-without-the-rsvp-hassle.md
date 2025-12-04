@@ -4,6 +4,7 @@ title: Maximize Your Pre-Concert Party Attendance Without the RSVP Hassle
 subtitle: Effortless Event Coordination for Social Gatherings and Concert Warm-ups
 tags: [event organization, concert pre-party]
 author: ijoin.app
+language: en
 ---
 
 # The Seamless Secret to Hosting the Ultimate Pre-Concert Gathering

@@ -4,6 +4,7 @@ title: Stop the Email Chain Chaos - Organize Your Study Group Instantly
 subtitle: Maximize Attendance and Minimize Stress for Your Next Exam Prep Session
 tags: [event organization, study group]
 author: ijoin.app
+language: en
 ---
 
 # Stop the Email Chain Chaos - Organize Your Study Group Instantly

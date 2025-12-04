@@ -4,6 +4,7 @@ title: Effortless Team Meetups - Organizing After-Work Drinks Without the Hassle
 subtitle: Stop the endless group chat chaos and see your guest list instantly
 tags: [event organization, social planning]
 author: ijoin.app
+language: en
 ---
 
 # Effortless Team Meetups - Organizing After-Work Drinks Without the Hassle

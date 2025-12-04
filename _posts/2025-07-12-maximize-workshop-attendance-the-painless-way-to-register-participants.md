@@ -5,6 +5,7 @@ title: Maximize Workshop Attendance - The Painless Way to Register Participants
 subtitle: Stop Losing Attendees to Clunky Sign-Up Forms and Mandatory Logins
 tags: [event registration, creative workshop]
 author: ijoin.app
+language: en
 ---
 # Finally Run That Creative Workshop Without Registration Roadblocks
 

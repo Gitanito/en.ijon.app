@@ -4,6 +4,7 @@ title: Host the Ultimate Public Viewing Party Without the Headaches
 subtitle: Coordinate your next sports event gathering effortlessly and maximize attendance
 tags: [event planning, public viewing]
 author: ijoin.app
+language: en
 ---
 # Host the Ultimate Public Viewing Party Without the Headaches
 

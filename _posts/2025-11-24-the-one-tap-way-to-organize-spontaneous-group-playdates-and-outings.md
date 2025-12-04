@@ -5,6 +5,7 @@ title: The One-Tap Way to Organize Spontaneous Group Playdates and Outings
 subtitle: Maximize attendance for your next park meetup or family adventure effortlessly.
 tags: [event organization, playdate planner]
 author: ijoin.app
+language: en
 ---
 # Stop the Group Chat Chaos - Effortless Playdate Planning is Here
 

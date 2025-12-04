@@ -4,6 +4,7 @@ title: Never Chase RSVPs Again - Effortless Team Attendance for Coaches
 subtitle: Finally, a simple way for sports teams to track attendance and manage last-minute changes.
 tags: [sports team management, event organization]
 author: ijoin.app
+language: en
 ---
 # The Secret to Stress-Free Sports Team Attendance Tracking
 

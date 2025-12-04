@@ -4,6 +4,7 @@ title: Stop the Email Chaos - The Easiest Way to Coordinate School Trip Carpools
 subtitle: Maximize Parent Participation and Simplify Transportation Logistics for Any School Event
 tags: [school trip planning, carpool coordination]
 author: ijoin.app
+language: en
 ---
 
 # Stop the Email Chaos - The Easiest Way to Coordinate School Trip Carpools

@@ -4,6 +4,7 @@ title: Effortless Professional Meetups - Maximize Your Network Attendance
 subtitle: Stop the RSVP Friction and Start Connecting with Colleagues
 tags: [event organization, professional networking]
 author: ijoin.app
+language: en
 ---
 # Effortless Professional Meetups - Maximize Your Network Attendance
 

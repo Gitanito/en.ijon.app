@@ -4,6 +4,7 @@ title: Stop Chasing RSVPs - The Simple Way to Organize School Events
 subtitle: Maximize Attendance for Parent-Teacher and School Functions Without Hassle
 tags: [event organization, school events]
 author: ijoin.app
+language: en
 ---
 
 # Stop Chasing RSVPs - The Simple Way to Organize School Events
